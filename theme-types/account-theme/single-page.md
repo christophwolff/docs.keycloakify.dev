@@ -7,7 +7,7 @@ description: Customizing the Single Page Account UI
 To initialize a Single-Page account theme run the following command:
 
 ```bash
-npx keycloakify initialize-account-theme # Select 'Sigle-Page'
+npx keycloakify initialize-account-theme # Select 'Single-Page'
 ```
 
 {% embed url="https://youtu.be/UKU6zGCH-CY" %}
